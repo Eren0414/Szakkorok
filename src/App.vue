@@ -7,11 +7,10 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
     <div>
       <nav>
-        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/"></RouterLink>
       </nav>
     </div>
   </header>
-
  <RouterView/>
 </template>
 
